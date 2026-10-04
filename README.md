@@ -1,4 +1,4 @@
-# encon-projects
+# Encon-Projects
 This folder contains the projects that I completed at my internship at Encon Pharam. Built a full-stack cold-chain temperature monitoring application using AWS, Terraform, Next.js and TypeScript, allowing users to create, view, edit and delete temperature readings
 
 • Developed a REST API using API Gateway, Lambda and DynamoDB, with server-side validation, UUIDv4 IDs and automatic classification of readings as ok or excursion.
